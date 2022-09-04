@@ -36,24 +36,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
-global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.vcardowner = ['94763720288'] //ur owner number
+global.ownername = "Ravindu" //ur owner name
+global.ytname = "YT: Gaming Sanu" //ur yt chanel name
+global.socialm = "GitHub: GamingSanuteam" //ur github or insta name
+global.location = "Sri Lanka, Galle,Nagoda" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '9471421243' //ur tag number
-global.botname = 'CYBER-X TEST EDITION' //ur bot name
-global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
-global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
+global.owner = ['94763720288']
+global.ownertag = '94763720288' //ur tag number
+global.botname = 'Gaming Sanu' //ur bot name
+global.ig = "https://www.youtube.com/channel/UCOJR9RVrjp759xOMx9OSiuw" //your theme url which will be displayed on whatsapp
+global.myweb = "https://www.youtube.com/channel/UCOJR9RVrjp759xOMx9OSiuw" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
-global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🚀" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
+global.linkz = 'https://www.youtube.com/channel/UCOJR9RVrjp759xOMx9OSiuw'
+global.reactmoji = "💥" //ur menu react emoji
+global.themeemoji = "💖" //ur theme emoji
+global.packname = "Gaming Sanu" //ur sticker watermark packname
+global.author = "Ravindu" //ur sticker watermark author
 global.aliveimg ="https://telegra.ph/file/71c859102f3625d06204b.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
